@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,700');
+
+body {
+    background:#35393C;
+    padding: 3em;
+    color:#fff;
+}
+
+a {
+    color:#fff;
+    text-decoration:none;
+}
+
+* { 
+    font-family: 'Raleway', 'Arial';
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.center {
+    text-align: center;
+}
+
+.svg-inline--fa {
+    font-size: x-large;
+    margin-right: 20px;
+    margin-left: 20px;
+}
